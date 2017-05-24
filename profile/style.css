@@ -1,0 +1,97 @@
+body {
+  background-color: #EBEBEB;
+  font-family: "Open Sans";
+  color: #7D7D7D;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+h1 {
+  font-family: "Montserrat";
+  color: #DD5555;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 500;
+}
+
+table {
+  font-size: 14px;
+}
+
+a {
+  color: #D6D4D4;
+  text-decoration: none;
+}
+
+a:hover {
+    color: #DD5555;
+}
+
+li:hover {
+    color: #DD5555;
+}
+
+div {
+    display: block;
+}
+
+.poster {
+  width: 100px;
+  height: auto;
+  margin: 10;
+}
+
+.container {
+  width: 550px;
+  margin: 30 auto;
+}
+
+.card {
+  background-color: white;
+  border-margin: 50;
+  margin: 10;
+  padding: 30;
+  border-radius: 4px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.img-circle {
+  border-radius: 50%;
+}
+
+#img-profile {
+  border: 3px solid #EBEBEB;
+}
+
+.btn-red {
+  background-color: #DD5555;
+  color: white;
+  font-weight: 500;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.btn-red:hover {
+    background-color: #BF1313;
+    color: white;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+  font-size: 20px;
+}
+
+.margin-logo {
+  margin: 6;
+}
+
